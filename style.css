@@ -1,0 +1,47 @@
+.bg-color {
+    background-color: #23232e;
+}
+.gray-color {
+    color: gray;
+}
+
+.bg-image {
+    background-image: url("images/bg.png");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    width: 100%;
+}
+.my-work ul li a {
+    color:white;
+    text-decoration: none;
+
+    
+}
+
+.my-work ul li a:hover {
+
+    border-bottom: 2px solid #7b77c9;
+    padding-bottom: 6px;
+}
+
+.btn-bg {
+    background-color: #7b77c9;
+}
+
+footer ul li:nth-child(1):hover{
+    color: #00acee;
+}
+
+footer ul li:nth-child(2):hover{
+    color: #ea4c89;
+}
+
+footer ul li:nth-child(3):hover{
+    color: #053eff;
+}
+
+footer ul li:nth-child(4):hover{
+    color: #3f729b;
+}
+
